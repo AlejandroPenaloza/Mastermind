@@ -7,9 +7,7 @@ print("                   Every 3 tries the game will ask you if a hint is neede
 print("                   At the end, the game will tell you how many tries it took.\n")
 print("                                                        ENJOY THE GAME!\n")
 
-
-keep_playing = True
-while keep_playing:
+while True:
     number_of_digits = input("How many digits do you want to guess?\n")
     while True:
         if number_of_digits.isdigit():
@@ -63,9 +61,6 @@ while keep_playing:
             print("You got ", number_of_corrects, " right digit(s) in its place")
         counter += 1
     answer = input("Do you want to play again!\n")
-    if answer == 'yes':
-        keep_playing = True
-    else:
+    if answer == 'no':
         print("Game Over")
-        keep_playing = False
-print(round(cbrt((17/4 + math.sqrt(625/27))/2) + cbrt((   (17/4) - math.sqrt(625/27)  )  /2) + 1/2, 6))
+        break
