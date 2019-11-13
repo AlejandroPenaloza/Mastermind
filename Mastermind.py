@@ -1,3 +1,4 @@
+import random
 print("                                                          MASTERMIND")
 print("                   A random number is generated with the quantity of digits you want.")
 print("                   You have to keep inputting the number's digits until you guess the randomly generated number. ")
@@ -17,7 +18,6 @@ while True:
             print("Try again")
             number_of_digits = input("How many digits do you want to guess?\n")
     counter = 0
-    import random
     random_digits = []
     for x in range(number_of_digits):
         digit = random.randint(1, 9)
