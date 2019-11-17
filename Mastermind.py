@@ -61,6 +61,7 @@ while True:
             print("You got ", number_of_corrects, " right digit(s) in its place")
         counter += 1
     answer = input("Do you want to play again!\n")
+
     if answer == 'no':
         print("Game Over")
         break
