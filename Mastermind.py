@@ -22,6 +22,7 @@ while True:
     for x in range(number_of_digits):
         digit = random.randint(1, 9)
         random_digits.append(digit)
+
     correct_guessing = False
     while not correct_guessing:
         if counter != 0 and counter % 3 == 0:
