@@ -1,3 +1,5 @@
+import random
+
 print("                                                          MASTERMIND")
 print("                   A random number is generated with the quantity of digits you want.")
 print("                   You have to keep inputting the number's digits until you guess the randomly generated number. ")
@@ -7,7 +9,6 @@ print("                   Every 3 tries the game will ask you if a hint is neede
 print("                   At the end, the game will tell you how many tries it took.\n")
 print("                                                        ENJOY THE GAME!\n")
 
-import random
 while True:
     number_of_digits = input("How many digits do you want to guess?\n")
     while True:
