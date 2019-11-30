@@ -9,6 +9,7 @@ print("                   Every 3 tries the game will ask you if a hint is neede
 print("                   At the end, the game will tell you how many tries it took.\n")
 print("                                                        ENJOY THE GAME!\n")
 
+
 while True:
     number_of_digits = input("How many digits do you want to guess?\n")
     while True:
