@@ -1,6 +1,6 @@
 # Mastermind
 This program corresponds to a game which consists in guessing a number of k digits 
-(k is given) in their right place.
+(k is given by) in their right place.
 
 ## Mastermind 2
 A hint is granted every three tries in this version.
