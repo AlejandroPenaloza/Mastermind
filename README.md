@@ -1,5 +1,5 @@
 # Mastermind
-This program corresponds to a game which consists in guessing a number of k digits 
+This program corresponds to a game which consists in guessing a number n of k digits 
 (k is given by the user) in their right place.
 
 ## Mastermind 2
