@@ -6,6 +6,6 @@ This program corresponds to a game which consists in guessing a number 'n' of 'k
 A hint is granted every three tries in this version.
 It allows you to keep playing as long as desired.
 
-###
+### First
 ### WORK IN PROGRESS
 
