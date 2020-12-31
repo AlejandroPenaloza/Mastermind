@@ -7,5 +7,5 @@ A hint is granted every three tries in this version.
 It allows you to keep playing as long as desired.
 
 ### First draw
-### (WORK IN PROGRESS)
+### (THIS WORK IN PROGRESS)
 
