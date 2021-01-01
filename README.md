@@ -4,7 +4,7 @@ This program corresponds to a game which consists in guessing a number 'n' of 'k
 
 ## Mastermind 2
 A hint is granted every three tries in this version.
-It allows you to keep playing as long as desired.
+It allows you to keep playing as long as the.
 
 ### First draw
 ### (WORK IN PROGRESS)
